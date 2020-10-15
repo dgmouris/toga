@@ -33,7 +33,7 @@ Toga
    :target: https://gitter.im/beeware/general
    :alt: Gitter chat room
 
-A Python native, OS native GUI toolkit.
+A Python native, OS native GUI toolkit, it's like your frontend JS libraries.
 
 Prerequisites
 ~~~~~~~~~~~~~
